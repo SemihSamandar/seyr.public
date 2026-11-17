@@ -1,3 +1,7 @@
+<p>
+<img src="https://www.semihsamandar.com/projects/seyr/icon.webp" width="96" alt="Seyr icon" />
+</p>
+
 # Seyr
 
 > **Note:** The source code of Seyr lives in a private repository. This public repo is a
@@ -9,6 +13,8 @@
 
 **See where your visitors actually look.** Seyr is a lightweight behavior analytics and
 recommendation service that drops into any site with a single script tag.
+
+<img src="https://www.semihsamandar.com/projects/seyr/cover.webp" alt="Seyr: see where visitors look and recommend products based on their interests" />
 
 ## Features
 
@@ -24,6 +30,16 @@ recommendation service that drops into any site with a single script tag.
 - **Teams:** invite members to a site's dashboard.
 - **GDPR & KVKK friendly:** consent mode, a retention period for raw data and a per-person
   delete API.
+
+## Screenshots
+
+**Dashboard overview**
+
+<img src="https://www.semihsamandar.com/projects/seyr/overview.webp" alt="Seyr dashboard overview" />
+
+**Session recordings**
+
+<img src="https://www.semihsamandar.com/projects/seyr/recordings.webp" alt="Seyr session recordings" />
 
 ## Tech stack
 
